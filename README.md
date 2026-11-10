@@ -1,2 +1,2 @@
 # PA-Tutor
-repo for hosting PA Tutor ( Project management Guide)
+repo for hosting PA Tutor ( Project mgt Guide)
